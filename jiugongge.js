@@ -19,7 +19,7 @@ window.onload = function() {
 
 			for(i = 0; i < 3; i++) {
 
-				cell[indexArr[i].style.backgroundColor = col[i];
+				cell[indexArr[i]].style.backgroundColor = col[i];
 				};
 			};
 
